@@ -1,1 +1,3 @@
-# scs.buttonplus
+# Button+ for Home Assistant
+
+## Installation
