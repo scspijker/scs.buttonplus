@@ -1,1 +1,0 @@
-DOMAIN = "scs_buttonplus"
